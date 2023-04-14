@@ -11,16 +11,10 @@
         </div>
         <!-- Item 3 -->
         <div class="duration-200 ease-linear" data-carousel-item="active">
-            <img src="" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
-        </div>
-        <!-- Item 4 -->
-        <div class="duration-200 ease-linear" data-carousel-item>
-            <img src="" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
-        </div>
-        <!-- Item 5 -->
-        <div class="duration-200 ease-linear" data-carousel-item>
             <img src="/images/03.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="...">
         </div>
+        <!-- Item 4 -->
+        
     </div>
     <!-- Slider controls -->
     <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev>
